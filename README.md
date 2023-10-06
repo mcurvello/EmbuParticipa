@@ -5,8 +5,9 @@
 ## Funcionalidades Principais
 
 - Envio de reclamações sobre serviços públicos.
+- Lista das reclamações enviadas pela comunidade.
 - Acompanhamento do status das reclamações enviadas.
-- Notificações em tempo real sobre atualizações de reclamações.
+- Mapa para verificar os locais com reclamações para solucionar.
 
 ## Pré-Requisitos
 
